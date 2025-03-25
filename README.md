@@ -115,4 +115,9 @@ Health Awareness & Preventive Care
 ```
 
 ## Dependencies
-
+```
+Research and Planning-15 days
+Data collection-20 days
+Development-20 days
+testing-15 days
+```
