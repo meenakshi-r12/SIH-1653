@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:
+# Date:25.3.25
 ## Register Number:212224220062
 ## Name:Meenakshi.R
 ## Problem Title
@@ -102,6 +102,7 @@ Health Awareness & Preventive Care
 
 ## Use Cases
 
+![WhatsApp Image 2025-03-25 at 13 27 34_dd9b9f79](https://github.com/user-attachments/assets/849594ff-faf7-414b-9de1-36d9bbce93d8)
 
 ## Technology Stack
 ```
