@@ -104,7 +104,15 @@ Health Awareness & Preventive Care
 
 
 ## Technology Stack
-
+```
+   React.js
+   Node.js
+   GPT-4
+   Google Speech API
+   TenserFlow
+   Google Maps API
+   Firebase
+```
 
 ## Dependencies
 
