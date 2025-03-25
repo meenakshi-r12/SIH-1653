@@ -3,9 +3,9 @@
 ## Register Number:212224220062
 ## Name:Meenakshi.R
 ## Problem Title
-SIH 1653: Web based Selector-Applicant Simulation Software
+SIH 1653: Smart Healthcare Assistant for Rural Areas
 ## Problem Description
-Background:Problem Description: Smart Healthcare Assistant for Rural Areas
+Background:Problem Description:
 
 The Challenge: Healthcare Gaps in Rural India
 
@@ -58,7 +58,7 @@ Develop a Smart Healthcare Assistant that provides:
     Medicine & vaccination reminders
 
 ## Problem Creater's Organization
-Ministry of Defence
+Ministry of Health
 
 ## Idea
 
