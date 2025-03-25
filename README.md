@@ -120,4 +120,5 @@ Research and Planning-15 days
 Data collection-20 days
 Development-20 days
 testing-15 days
+budget=Rs-150000
 ```
