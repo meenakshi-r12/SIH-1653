@@ -99,6 +99,7 @@ Health Awareness & Preventive Care
 ```
 ## Proposed Solution / Architecture Diagram
 
+![WhatsApp Image 2025-03-25 at 13 41 10_40e6d15c](https://github.com/user-attachments/assets/6d0dd00c-f0bf-4ee2-be4b-a62ecb9a2033)
 
 ## Use Cases
 
