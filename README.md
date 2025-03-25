@@ -5,7 +5,6 @@
 ## Problem Title
 SIH 1653: Smart Healthcare Assistant for Rural Areas
 ## Problem Description
-Background:Problem Description:
 
 The Challenge: Healthcare Gaps in Rural India
 
