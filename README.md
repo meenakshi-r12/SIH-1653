@@ -102,7 +102,7 @@ Health Awareness & Preventive Care
 
 ## Use Cases
 
-![WhatsApp Image 2025-03-25 at 13 27 34_dd9b9f79](https://github.com/user-attachments/assets/849594ff-faf7-414b-9de1-36d9bbce93d8)
+![WhatsApp Image 2025-03-25 at 13 36 53_3535ed6a](https://github.com/user-attachments/assets/a4ddcc1f-965d-4d5e-85c6-05e60d217c5c)
 
 ## Technology Stack
 ```
