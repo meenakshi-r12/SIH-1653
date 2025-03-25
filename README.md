@@ -9,9 +9,8 @@ SIH 1653: Smart Healthcare Assistant for Rural Areas
 The Challenge: Healthcare Gaps in Rural India
 
 Rural communities face significant barriers to accessing healthcare, leading to delayed treatment, high mortality rates, and preventable diseases. The key challenges include:
-
-Shortage of Doctors & Hospitals
 ```
+Shortage of Doctors & Hospitals
 	•	Rural doctor-patient ratio is extremely low (1:25,000 in some areas).
 	•	Hospitals are far away, making timely treatment difficult.
 	•	Overburdened government health centers lack proper facilities.
