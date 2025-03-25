@@ -26,7 +26,7 @@ Lack of Medical Awareness & Preventive Care
 ```
 Limited Emergency Medical Access
 	•	Ambulance response time is slow, and many areas lack emergency services.
-	•	Patients with critical illnesses (heart attacks, pregnancy complications) struggle to reach hospitals on time.
+	•	Patients with critical illnesses struggle to reach hospitals on time.
 	•	Poor mobile network & internet connectivity make telemedicine challenging.
 ```
 ```
